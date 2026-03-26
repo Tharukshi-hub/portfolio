@@ -16,7 +16,8 @@ function Projects({setshowProjects}) {
     {
       title: "Portfolio Website",
       image: portfolioImage,
-      description: "Personal portfolio built with React"
+      description: "Personal portfolio built with React",
+      link: "https://github.com/Tharukshi-hub/portfolio"
     },
     {
       title: "E-commerce App",
@@ -32,7 +33,8 @@ function Projects({setshowProjects}) {
     {
       title: "Flappy bird game",
       image: flappyImage,
-      description: "A small and simple game create using C#"
+      description: "A small and simple game create using C#",
+      link: "https://github.com/Tharukshi-hub/flappy-bird"
     },
     {
       title: "To-Do List App",

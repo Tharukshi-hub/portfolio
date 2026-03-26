@@ -16,7 +16,7 @@ function Home({setshowProjects, setshowContact}) {
 };
 
   const openLinkedIn = () => {
-  window.open("https://www.linkedin.com/in/tharukshi-hansamali-855826336");
+  window.open("linkedin.com/in/tharukshi-hansamali-54985735a");
   };
 
   const goToContact = () => {
