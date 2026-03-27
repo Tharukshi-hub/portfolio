@@ -4,6 +4,7 @@ import hospitalImg from "./images/hospital.png";
 import portfolioImage from "./images/portfolio.png";
 import flappyImage from "./images/flappy.png";
 import EMPImage from "./images/EMP.png";
+import OJPImage from "./images/OJP.png";
 
 function Projects({setshowProjects}) {
   const projectList = [
@@ -20,9 +21,10 @@ function Projects({setshowProjects}) {
       link: "https://github.com/Tharukshi-hub/portfolio"
     },
     {
-      title: "E-commerce App",
-      image: "https://via.placeholder.com/300",
-      description: "Online shopping system with payment integration"
+      title: "Online Job Portal",
+      image: OJPImage,
+      description: "This is a project create using HTML and CSS",
+      link: "https://github.com/Tharukshi-hub/Individual-website",
     },
     {
       title: "Employee Payroll System",
