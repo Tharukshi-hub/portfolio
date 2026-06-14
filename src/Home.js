@@ -1,4 +1,4 @@
- import React, { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import "./Home.css";
 
 function Home({setshowProjects, setshowContact}) {
@@ -16,7 +16,7 @@ function Home({setshowProjects, setshowContact}) {
 };
 
   const openLinkedIn = () => {
-  window.open("linkedin.com/in/tharukshi-hansamali-54985735a");
+  window.open("https://www.linkedin.com/in/tharukshi-hansamali-54985735a/");
   };
 
   const goToContact = () => {
@@ -25,7 +25,7 @@ function Home({setshowProjects, setshowContact}) {
   };
 
   const openCV = () => {
-    window.open("/CV.pdf", "_blank");
+    window.open("/My CV.pdf", "_blank");
   }
   useEffect(() => {
     let h1Index = 0;

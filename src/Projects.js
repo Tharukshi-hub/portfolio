@@ -1,4 +1,4 @@
- import React from "react";
+import React from "react";
 import "./Projects.css";
 import hospitalImg from "./images/hospital.png";
 import portfolioImage from "./images/portfolio.png";
