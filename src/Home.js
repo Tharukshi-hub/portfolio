@@ -5,7 +5,7 @@ function Home({setshowProjects, setshowContact}) {
   const fullH1 = "Hello, I'm Tharukshi";
   const fullH2 = "Web Developer";
   const fullP =
-    "I am an enthusiastic Information Technology student currently pursuing a diploma in IT, with a srong passion for web development and modern technologies. I have experience working with both front-end and back-end development, allowing me to build complete and functional web applications. On the front-end, I work with technologies such as HTML, CSS JavaScript and React to create responsive and user-friendly interfaces. On the back-end, I have experience working with databases like MongoDB and MySQL to manage and organize data efficiently. I enjoy transforming ideas into practicle digital solutions and continuously improving my skiils by exploring new technologies and building real-world projects.";
+    "I am an Information Technology student passionate about web development and modern technologies. I enjoy building responsive and user-friendly web applications using React.js, JavaScript, MongoDB, and MySQL. Through academic and personal projects, I have gained experience in both front-end and back-end development and continuously strive to improve my skills by exploring new technologies and creating real-world solutions.";
 
   const [h1Text, setH1Text] = useState("");
   const [h2Text, setH2Text] = useState("");
