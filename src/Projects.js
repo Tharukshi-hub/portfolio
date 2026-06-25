@@ -39,9 +39,10 @@ function Projects({setshowProjects}) {
       link: "https://github.com/Tharukshi-hub/flappy-bird"
     },
     {
-      title: "To-Do List App",
+      title: "Smart Study Planner with AI Suggestions",
       image: "",
-      description: "Simple activity which I were done during the semester vacation"
+      description: "A project that helps students to plan their study schedule and get AI suggestions for better learning.",
+      link: "https://github.com/Tharukshi-hub/Smart-Study-Planner"
     }
   ];
 

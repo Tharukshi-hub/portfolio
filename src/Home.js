@@ -86,8 +86,8 @@ function Home({setshowProjects, setshowContact}) {
 
         <div className="home-image">
           <img
-            src="https://cdn-icons-png.flaticon.com/512/921/921347.png"
-            alt="developer"
+            src="./photo.png"
+            alt="tharukshi"
           />
         </div>
       </div>
