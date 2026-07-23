@@ -25,7 +25,7 @@ function Home({setshowProjects, setshowContact}) {
   };
 
   const openCV = () => {
-    window.open("/My CV.pdf", "_blank");
+    window.open("/new CV.pdf", "_blank");
   }
   useEffect(() => {
     let h1Index = 0;

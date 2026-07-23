@@ -5,6 +5,7 @@ import portfolioImage from "./images/portfolio.png";
 import flappyImage from "./images/flappy.png";
 import EMPImage from "./images/EMP.png";
 import OJPImage from "./images/OJP.png";
+import studyPlannerImage from "./images/studyPlanner.png";
 
 function Projects({setshowProjects}) {
   const projectList = [
@@ -40,7 +41,7 @@ function Projects({setshowProjects}) {
     },
     {
       title: "Smart Study Planner with AI Suggestions",
-      image: "",
+      image: studyPlannerImage,
       description: "A project that helps students to plan their study schedule and get AI suggestions for better learning.",
       link: "https://github.com/Tharukshi-hub/Smart-Study-Planner"
     }
