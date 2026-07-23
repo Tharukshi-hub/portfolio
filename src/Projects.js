@@ -43,7 +43,7 @@ function Projects({setshowProjects}) {
       title: "Smart Study Planner with AI Suggestions",
       image: studyPlannerImage,
       description: "A project that helps students to plan their study schedule and get AI suggestions for better learning.",
-      link: "https://github.com/Tharukshi-hub/Smart-Study-Planner"
+      link: "https://github.com/Tharukshi-hub/Study-Planner"
     }
   ];
 
